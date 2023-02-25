@@ -2,7 +2,8 @@
 title: Claire Henderson
 ---
 
-<button>[About Me](about.md)</button>
+<link rel="stylesheet" href="style.css">
+<button type="button" class="button">[About Me](about.md)</button>
 
 # Lady
 ---
